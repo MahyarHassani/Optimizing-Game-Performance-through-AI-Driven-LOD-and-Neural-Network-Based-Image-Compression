@@ -1,0 +1,9 @@
+torch==2.0.1                # PyTorch for building and training neural network models
+torchvision==0.15.2         # PyTorch's library for image processing
+numpy==1.23.5               # Numerical operations and matrix manipulation
+pillow==9.5.0               # Image loading, processing, and saving
+scipy==1.11.2               # Additional scientific computing tools, such as for PSNR calculation
+matplotlib==3.7.1           # For visualizing results and performance graphs
+tqdm==4.66.1                # For creating progress bars during training and testing
+json5==0.9.11               # For managing configuration files (e.g., LOD settings)
+unreal-engine==0.3.1        # Python API for Unreal Engine 5 integration (optional)
